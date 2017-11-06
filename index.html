@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/mui.min.css" rel="stylesheet" type="text/css" />
+  <link href="css/custom.css" rel="stylesheet" type="text/css" />
+
+  <link href="https://fonts.googleapis.com/css?family=Arimo|Dosis|Raleway" rel="stylesheet">
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="js/mui.min.js"></script>
+  <script src="js/gmap.js"></script>
+
+  <style>
+    /* Tutorial CSS goes here */
+  </style>
+  <script>
+    /* Tutorial JavaScript goes here */
+  </script>
+</head>
+
+<body>
+  <div id="sidedrawer" class="mui--no-user-select">
+    <div id="sidedrawer-brand" class="mui--appbar-line-height">
+      <span class="mui--text-title">Brand.io</span>
+    </div>
+    <div class="mui-divider"></div>
+    <ul>
+      <li>
+        <strong>Category 1</strong>
+        <ul>
+          <li>
+            <a href="#">Item 1</a>
+          </li>
+          <li>
+            <a href="#">Item 2</a>
+          </li>
+          <li>
+            <a href="#">Item 3</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <header id="header">
+    <div class="mui-appbar mui--appbar-line-height">
+      <div class="mui-container-fluid">
+        <a class="sidedrawer-toggle mui--visible-xs-inline-block mui--visible-sm-inline-block js-show-sidedrawer">☰</a>
+        <a class="sidedrawer-toggle mui--hidden-xs mui--hidden-sm js-hide-sidedrawer">☰</a>
+        <td class="mui--appbar-height" align="right">
+          <img class="logoImage mui--pull-right" src="images/logo.png" />
+        </td>
+
+        <span class="mui--text-title mui--visible-xs-inline-block mui--visible-sm-inline-block">Brand.io</span>
+      </div>
+    </div>
+  </header>
+  <div id="content-wrapper">
+    <div class="mui--appbar-height"></div>
+    <div class="mui-container-fluid">
+      <br>
+      <div class="mui-row">
+        <div class="mui-col-md-6">
+          <div class="mui-panel mui--z3">
+            <div id="map"></div>
+          </div>
+        </div>
+        <div class="mui-col-md-6">
+          <div class="mui-panel mui--z3">
+            Map 2
+          </div>
+        </div>
+      </div>
+
+      <div class="mui-row">
+        <div class="mui-col-md-12">
+          <div class="mui-panel mui--z3">
+            <div id="approachDiagram"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="js/app.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVt278HfdMNlS-qNHxinCLETpugkUV9ms"></script>
+  <script src="js/raphael.min.js"></script>
+
+  </script>
+</body>
+
+</html>
