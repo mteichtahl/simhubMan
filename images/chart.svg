@@ -1,0 +1,67 @@
+<svg width="1024" height="520" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="522" width="1026" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_2" height="17" width="697.381858" y="449" x="221.047097" fill-opacity="null" stroke-opacity="null" fill="none"/>
+  <rect id="svg_3" height="8" width="75" y="449" x="816" stroke="#000000" fill="#000000"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="466.038575" x2="816" y1="441" x1="816" stroke-width="null" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_5" y="135" x="411" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">I-HIQ</text>
+  <path stroke="#000000" id="svg_7" d="m445.97502,119.34998l11.99999,0l9.99999,11.03019l-9.99999,11.03018l-11.99999,0l0,-22.06037z" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_8" y="366" x="805" stroke-width="0" stroke="#000000" fill="#000000">11</text>
+  <text stroke="#000000" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_9" y="343" x="122" stroke-width="0" fill="#000000">TCH 57</text>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="329" x2="163.040797" y1="329" x1="122.000001" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="466.03858" x2="221" y1="145" x1="221" stroke-width="null" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_12" y="340" x="797" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">*I-HIQ</text>
+  <path stroke="#000000" id="svg_14" d="m803.975013,349.34998l16.909091,0l14.090907,11.03019l-14.090907,11.03018l-16.909091,0l0,-22.06037z" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_15" y="115" x="414" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">KRSTL</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_16" y="157" x="415" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">RADAR</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_6" y="365" x="806" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">0.5</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_17" y="135" x="450" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">5</text>
+  <line stroke-dasharray="5,5" stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_18" y2="465.03858" x2="436" y1="164" x1="436" stroke-width="null" fill="none"/>
+  <line stroke="#000000" stroke-dasharray="5,5" stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="436.038575" x2="816" y1="377.000001" x1="816" stroke-width="null" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_20" y="134" x="232" stroke-width="0" stroke="#000000" fill="#000000">11</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_21" y="133" x="196" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">I-HIQ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_22" y="112" x="188" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">AROKE INT</text>
+  <path stroke="#000000" id="svg_23" d="m230.97502,117.34998l11.99999,0l9.99999,11.03019l-9.99999,11.03018l-11.99999,0l0,-22.06037z" fill="#ffffff"/>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_24" y="133" x="233" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">11</text>
+  <path transform="rotate(-180 669.6849975585938,359.19314575195307) " id="svg_25" d="m660.184989,359.166732l9.500013,-10.973598l9.500013,10.973598l-4.750007,0l0,11.026401l-9.500012,0l0,-11.026401l-4.750007,0z" stroke-width="null" fill="#000000"/>
+  <line stroke-dasharray="5,5" stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_26" y2="466.038576" x2="670" y1="371.999999" x1="670" stroke-width="NaN" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_27" y="312" x="664" stroke-width="0" stroke="#000000" fill="#000000">11</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_28" y="460.571438" x="723.476187" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">1.2 NM</text>
+  <path stroke="#000000" id="svg_29" d="m662.97502,295.34998l11.99999,0l9.99999,11.03019l-9.99999,11.03018l-11.99999,0l0,-22.06037z" fill="#ffffff"/>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_30" y="311" x="665" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">11</text>
+  <line stroke="#000000" stroke-dasharray="5,5" stroke-linecap="null" stroke-linejoin="null" id="svg_31" y2="382.038575" x2="670" y1="323.000001" x1="670" stroke-width="null" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_32" y="286" x="651" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">*I-HIQ</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_33" y="462" x="309" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">6 NM</text>
+  <text stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_34" y="462" x="532.666688" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">3.3 NM</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_36" y2="221" x2="214.540799" y1="221" x1="174.500001" fill="none" stroke="#000000"/>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_37" y="323" x="120" stroke-width="0" stroke="#000000" fill="#000000">GS 3.00</text>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_42" y2="209.999999" x2="220.499991" y1="243.999998" x1="436.499987" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_43" y="215" x="174.504776" stroke-width="0" stroke="#000000" fill="#000000">2000</text>
+  <path id="svg_45" d="m434.989019,248.715419l-7.476473,5.431468l2.857958,-8.785951l-7.47479,-5.431468l9.239554,0.001683l2.45569,-7.55474l0.400585,-1.227004l2.852909,8.78006l9.242079,0l-7.478156,5.431468l2.8588,8.788476l-7.478156,-5.433993l0,0z" stroke-width="NaN" fill="#000000"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_49" y2="243.000003" x2="434.499991" y1="447.999999" x1="815.500012" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <text transform="rotate(5.514938831329346 339.27343750000097,234.9999999999998) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="10" id="svg_50" y="239" x="336.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">o</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_51" y="250" x="303.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">045</text>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_52" y2="455.99997" x2="675.306581" y1="456.273591" x1="720.116322" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <path stroke="#000000" id="svg_53" d="m813.423853,454.121929l-4.290408,-3.857153l7.714291,3.857153l-7.714291,3.85715l4.290408,-3.85715z" stroke-width="NaN" fill="#000000"/>
+  <path id="svg_54" d="m627.433361,138.339982l-6.673953,-6.000002l11.999983,6.000002l-11.999983,5.999999l6.673953,-5.999999z" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" stroke="#000000" fill="none"/>
+  <path transform="rotate(178.5206756591797 674.896240234375,456.5028381347656) " stroke="#000000" id="svg_56" d="m675.329499,456.502871l-4.290408,-3.857152l7.714292,3.857152l-7.714292,3.857151l4.290408,-3.857151z" stroke-width="NaN" fill="#000000"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_57" y2="454.095237" x2="770.544057" y1="454.153403" x1="813.925246" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_59" y2="457.904736" x2="225.309499" y1="457.952361" x1="296.309563" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <path transform="rotate(178.5206756591797 224.89915466308594,458.4076232910156) " stroke="#000000" id="svg_60" d="m225.332419,458.407621l-4.290408,-3.857152l7.714292,3.857152l-7.714292,3.857151l4.290408,-3.857151z" stroke-width="NaN" fill="#000000"/>
+  <path stroke="#000000" id="svg_61" d="m431.521561,457.931429l-4.290408,-3.857153l7.714291,3.857153l-7.714291,3.85715l4.290408,-3.85715z" stroke-width="NaN" fill="#000000"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_62" y2="457.904737" x2="345.308719" y1="457.962903" x1="432.022968" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <path stroke="#000000" id="svg_63" d="m668.186696,456.502867l-4.290408,-3.857153l7.714291,3.857153l-7.714291,3.85715l4.290408,-3.85715z" stroke-width="NaN" fill="#000000"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_64" y2="456.476175" x2="581.973855" y1="456.534341" x1="668.688104" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_65" y2="456.952346" x2="441.498578" y1="457.476031" x1="527.260447" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+  <path transform="rotate(178.5206756591797 441.0882263183593,457.4552307128906) " stroke="#000000" id="svg_66" d="m441.521495,457.455246l-4.290408,-3.857152l7.714292,3.857152l-7.714292,3.857151l4.290408,-3.857151z" stroke-width="NaN" fill="#000000"/>
+ </g>
+</svg>

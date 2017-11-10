@@ -10,6 +10,7 @@
 
 function drawApproach (paper) {
   console.log('drawing approach')
+
   var horizontalOffset = 50
   var canvasWidth = paper.canvas.clientWidth - horizontalOffset
   var canvasHeight = paper.canvas.clientHeight
@@ -47,27 +48,27 @@ function drawApproach (paper) {
   /** runway rectangle */
   paper.rect(x + 1400, y , 80, 10).attr({ fill: '#000000' })
 
-  /** Draw the base line */
-  // for (var i = 0; i < numberOfSegments; i++) {
+  // /** Draw the base line */
+  // // for (var i = 0; i < numberOfSegments; i++) {
 
-  // // var text = paper.text(x, y + 30, (numberOfSegments - i).toFixed(0).toString())
-  // // text.attr({ 'font-size': 16, 'font-family': 'Arial, Helvetica, sans-serif' })
-  // }
+  // // // var text = paper.text(x, y + 30, (numberOfSegments - i).toFixed(0).toString())
+  // // // text.attr({ 'font-size': 16, 'font-family': 'Arial, Helvetica, sans-serif' })
+  // // }
 
-  /** draw 6NM vertical */
-  var sixNM = (4 / numberOfSegments) * canvasWidth + 80
-  var sixNMLine = paper.path(`M${sixNM} 40L${sixNM} ${canvasHeight - 40}`)
-  sixNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
+  // /** draw 6NM vertical */
+  // var sixNM = (4 / numberOfSegments) * canvasWidth + 80
+  // var sixNMLine = paper.path(`M${sixNM} 40L${sixNM} ${canvasHeight - 40}`)
+  // sixNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
 
-  /** draw 6NM vertical */
-  var threeNM = (7 / numberOfSegments) * canvasWidth + 130
-  var threeNMLine = paper.path(`M${threeNM} 40L${threeNM} ${canvasHeight - 40}`)
-  threeNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
+  // /** draw 6NM vertical */
+  // var threeNM = (7 / numberOfSegments) * canvasWidth + 130
+  // var threeNMLine = paper.path(`M${threeNM} 40L${threeNM} ${canvasHeight - 40}`)
+  // threeNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
 
-  /** draw 6NM vertical */
-  var oneNM = (8 / numberOfSegments) * canvasWidth + 130
-  var oneNMLine = paper.path(`M${oneNM} 40L${oneNM} ${canvasHeight - 40}`)
-  oneNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
+// /** draw 6NM vertical */
+// var oneNM = (8 / numberOfSegments) * canvasWidth + 130
+// var oneNMLine = paper.path(`M${oneNM} 40L${oneNM} ${canvasHeight - 40}`)
+// oneNMLine.attr({ 'stroke': '#8c8c8c', 'stroke-dasharray': '--', 'stroke-width': '1.0' })
 }
 
 var KJFK4R_location = {
@@ -84,9 +85,11 @@ $(document).ready(function () {
   var $bodyEl = $('body')
   var $sidedrawerEl = $('#sidedrawer')
 
-  var approachDiagramElement = document.getElementById('approachDiagram')
-  var paper = new Raphael(approachDiagramElement, '90%', '90%')
-  drawApproach(paper)
+  // $('#approachDiagram').load('images/chart.svg')
+
+  var paper = new Raphael(document.getElementById('approachDiagram'), '100%', '95%')
+  paper.image('images/chart.svg', 0, 0, 1024, 520)
+  // drawApproach(paper)
 
   map = new GMaps({
     div: '#map',
